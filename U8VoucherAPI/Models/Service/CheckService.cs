@@ -89,8 +89,6 @@ namespace ZR.WMS.Business
 
                     u8login.Login(U8LoginInfo.SubId, accNum, "2015", U8LoginInfo.UserId, U8LoginInfo.Password, Convert.ToDateTime("2015-12-12").ToString());
 
-
-
                 Connection conn = new Connection();
                 conn.Open(u8login.UfDbName);
 
