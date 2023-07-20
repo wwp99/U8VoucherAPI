@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U8VoucherAPI", "U8VoucherAPI\U8VoucherAPI.csproj", "{8DE91085-7441-49FE-8DAD-F7E025C4A860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DE91085-7441-49FE-8DAD-F7E025C4A860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE91085-7441-49FE-8DAD-F7E025C4A860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE91085-7441-49FE-8DAD-F7E025C4A860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE91085-7441-49FE-8DAD-F7E025C4A860}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {811E3198-C830-4AA1-90BC-A95B808EEA06}
+	EndGlobalSection
+EndGlobal
